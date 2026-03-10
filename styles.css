@@ -424,6 +424,7 @@ h1 {
   color: var(--accent);
   font-size: 0.86rem;
   font-weight: 700;
+  align-items: baseline;
 }
 
 .entry-meta dd {
