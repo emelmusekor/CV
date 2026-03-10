@@ -234,7 +234,8 @@ h1 {
 }
 
 .hero-card__image {
-  width: 100%;
+  width: 80%;
+  margin: 0 auto;
   aspect-ratio: 5 / 4;
   object-fit: cover;
 }
